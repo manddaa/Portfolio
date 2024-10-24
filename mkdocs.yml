@@ -81,5 +81,5 @@ markdown_extensions:
         permalink: "#"
 
 # Configuration
-repo_url: 
-repo_name: 
+repo_url: https://github.com/manddaa/Portfolio
+repo_name: Manddaa
